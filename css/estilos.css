@@ -47,6 +47,7 @@ body{
 
 .barra{
   padding: 0px;
+
 }
 
 [class*="contenedor_"]:hover {
@@ -56,6 +57,7 @@ body{
 a:link{
   text-decoration: none;
   font-size: 10px;
+  color :black;
 }
 
 p{
